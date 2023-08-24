@@ -1,0 +1,1 @@
+format: discord API () Discord server bot ID and server ID here () do not copy bots or nothing or it wont work at all, Discord Username here () Add Adam788. for Help or support or join (https://discord.com/channels/1144069695037780078/1144087177580523603) 
